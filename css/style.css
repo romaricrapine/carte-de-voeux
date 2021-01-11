@@ -131,7 +131,7 @@ h1 {
 
 #noel {
     animation-name: glisse;
-    animation-duration: 5s;
+    animation-duration: 10s;
     animation-timing-function: ease;
     animation-iteration-count: 1;
     position: fixed;
@@ -142,7 +142,7 @@ h1 {
 #noel h1 {
     opacity: 1;
     animation-name: visible;
-    animation-duration: 7s;
+    animation-duration: 12s;
 }
 
 @keyframes visible {
